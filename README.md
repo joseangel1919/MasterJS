@@ -1,2 +1,2 @@
 # MasterJS
-hola
+hola""
